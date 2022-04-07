@@ -1,0 +1,265 @@
+.navbar {
+     background-color: black;
+    border-bottom: 3px solid gold;
+}
+.navbar-toggler-icon{
+    color: #fff;
+    padding-left: 180px;
+    font-size: 30px;
+    
+}
+
+.navbar-brand h4 {
+    color: rgb(12, 163, 163);
+    font-family: 'Galada', cursive;
+    font-size: 35px;
+}
+
+.navbar-brand h4:hover {
+    color: rgb(189, 17, 17);
+}
+
+.navbar-brand span {
+    color: rgb(82, 78, 78);
+    font-size: 27px;
+}
+
+.navbar-brand span:hover {
+    color: rgb(12, 163, 163);
+}
+
+.navbar-brand sub {
+    color: rgb(189, 17, 17);
+    font-weight: 600;
+    font-size: 23px;
+}
+
+.navbar-brand sub:hover {
+    color: rgb(82, 78, 78);
+}
+
+.let {
+    padding-top: 60px;
+    text-align: center;
+}
+
+#bg {
+
+    background-image: url(./img/ramadan-3384596_1280.webp);
+
+}
+
+#bg h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+
+#bg h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+marquee {
+    color: aliceblue;
+}
+
+.khan {
+    padding: 180px 0;
+}
+
+.khan a {
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-family: none;
+    font-size: 20px;
+    border: 3px solid gold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: black;
+    padding-top: ;
+}
+
+.link {
+    padding-top: 30px;
+}
+
+.link a:hover {
+    border: 3px solid black;
+    background-color: gold;
+    color: black;
+}
+
+.khan h4 {
+    color: rgb(194, 182, 11);
+    text-align: center;
+    line-height: 40px;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: 'Galada', cursive;
+}
+
+.khan h4 span {
+    color: rgb(97, 214, 18);
+}
+
+.khan .md {
+    color: rgb(201, 20, 20);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+.tab {
+    text-align: center;
+}
+
+.video {
+    max-width: 100%;
+
+}
+
+.video iframe {
+    padding-right: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tab {
+    padding: 80px 0;
+}
+
+.teb {
+    padding: 80px 0;
+}
+
+.ramadan {
+    padding: 80px 0;
+}
+
+.ramadan h4 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.sohifa {
+
+    padding: 80px 0;
+}
+
+.sohifa h2 {
+    text-align: center;
+    color: rgb(17, 146, 146);
+
+}
+
+.sohifa p {
+    padding-left: 50px;
+}
+
+.sohifa h3 {
+    color: rgb(202, 14, 14);
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.roja h3 {
+    text-align: center;
+}
+
+.roja ul li {
+    list-style: none;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.hadis h3 {
+    text-align: center;
+}
+
+.hadis ul li {
+    list-style: none;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.buk {
+    text-align: center;
+    padding: 80px 0;
+}
+
+.buk h2 {
+    color: rgb(16, 139, 109);
+    padding-top: 40px;
+}
+
+.buk span {
+    color: rgb(197, 15, 15);
+    font-weight: 700;
+    font-size: 30px;
+}
+
+#hadis {
+    text-align: center;
+    padding-top: 40px;
+}
+
+footer {
+    background-color: #183153;
+    color: #fff;
+    padding-top: 30px;
+    border-bottom: 7px solid rgb(121, 9, 9);
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.ar {
+    padding-left: 50%;
+    padding-top: 30px;
+}
+
+.ar i {
+    color: #fff;
+    font-size: 30px;
+}
+
+.ar i:hover {
+    color: blue;
+}
+
+.ar a {
+    padding-left: 20px;
+}
+.clock{
+   padding-left: 50px;
+}
+.common{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    height: auto;
+    width: 350px;
+    background-color: black;
+    border-radius: 10px;
+    border: 3px solid gold;
+
+}
+.common:hover{
+    background-color: #fff;
+    color: #000;
+    border: 3px dotted red;
+}
+

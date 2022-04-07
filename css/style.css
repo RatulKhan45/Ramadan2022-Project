@@ -1,0 +1,19 @@
+ #fs{
+    background-color: aqua;
+}
+#nd{
+    background-color: rgb(23, 59, 221);
+}
+#rd{
+    background-color: rgb(221, 23, 132);
+}
+.container{
+    background-color: rgba(45, 194, 137, 0.651)
+}
+.dropdown-menu{
+    
+    background-color: rgb(19, 20, 20);
+}
+.dropdown-menu a{
+    color: aliceblue;
+} 
