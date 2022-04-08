@@ -4,7 +4,7 @@
 }
 .navbar-toggler-icon{
     color: #fff;
-    padding-left: 180px;
+    /* padding-left: 180px; */
     font-size: 30px;
     
 }
@@ -244,7 +244,7 @@ footer ul li a {
     padding-left: 20px;
 }
 .clock{
-   padding-left: 50px;
+   padding-left:10px;
 }
 .common{
     color: #fff;
@@ -262,4 +262,42 @@ footer ul li a {
     color: #000;
     border: 3px dotted red;
 }
+
+@media (max-width: 600px) {
+  #rat{
+      display: none;
+  }
+  #ful{
+      width: 100%;
+  }
+  #ic{
+      width: 100%;
+    
+  }
+  .ar{
+      padding: 0;
+  }
+  .sp{
+      display: none;
+  }
+  .sp2{
+      display: none;
+  }
+  footer h4{
+      text-align: center;
+  }
+  footer ul li a{
+      text-align: center;
+  }
+  .clock{
+      padding-left: 40px;
+  }
+ 
+}
+@media (min-width: 900px){
+    .navbar-toggler-icon{
+        display: none;
+    }
+}
+
 

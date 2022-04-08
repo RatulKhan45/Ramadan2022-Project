@@ -9,7 +9,7 @@ function displaytime(){
     if(hrs >=12){
         session.innerHTML = 'PM';
     }else{
-        session.innerHTML = 'Am';
+        session.innerHTML = 'AM';
     }
 
     if(hrs > 12){
