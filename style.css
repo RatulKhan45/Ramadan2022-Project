@@ -262,7 +262,7 @@ footer ul li a {
     border: 3px dotted red;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 600px){
   #rat{
       display: none;
   }
@@ -288,8 +288,8 @@ footer ul li a {
   footer ul li a{
       text-align: center;
   }
-  .clock{
-      padding-left: 40px;
+  #bd{
+      display: none;
   }
  
 }
@@ -298,5 +298,9 @@ footer ul li a {
         display: none;
     }
 }
+ @media (max-width: 450px){
+.clock{
+     padding-left: 30px;
+} 
 
-
+}
