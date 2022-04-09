@@ -1,11 +1,12 @@
 .navbar {
-     background-color: black;
+    background-color: black;
     border-bottom: 3px solid gold;
 }
-.navbar-toggler-icon{
+
+.navbar-toggler-icon {
     color: #fff;
     font-size: 30px;
-    
+
 }
 
 .navbar-brand h4 {
@@ -78,7 +79,7 @@ marquee {
     padding: 10px 20px;
     border-radius: 10px;
     background-color: black;
-    
+
 }
 
 .link {
@@ -242,10 +243,12 @@ footer ul li a {
 .ar a {
     padding-left: 20px;
 }
-.clock{
-   padding-left:10px;
+
+.clock {
+    padding-left: 10px;
 }
-.common{
+
+.common {
     color: #fff;
     font-size: 50px;
     text-align: center;
@@ -256,51 +259,67 @@ footer ul li a {
     border: 3px solid gold;
 
 }
-.common:hover{
+
+.common:hover {
     background-color: #fff;
     color: #000;
     border: 3px dotted red;
 }
 
-@media (max-width: 600px){
-  #rat{
-      display: none;
-  }
-  #ful{
-      width: 100%;
-  }
-  #ic{
-      width: 100%;
-    
-  }
-  .ar{
-      padding: 0;
-  }
-  .sp{
-      display: none;
-  }
-  .sp2{
-      display: none;
-  }
-  footer h4{
-      text-align: center;
-  }
-  footer ul li a{
-      text-align: center;
-  }
-  #bd{
-      display: none;
-  }
- 
+@media (max-width: 600px) {
+    #rat {
+        display: none;
+    }
+
+    #ful {
+        width: 100%;
+    }
+
+    #ic {
+        width: 100%;
+
+    }
+
+    .ar {
+        padding: 0;
+    }
+
+    .sp {
+        display: none;
+    }
+
+    .sp2 {
+        display: none;
+    }
+
+    footer h4 {
+        text-align: center;
+    }
+
+    footer ul li a {
+        text-align: center;
+    }
+
+    #bd {
+        display: none;
+    }
+    .tab.container{
+        margin: 0;
+        padding: 0;
+
+    }
 }
-@media (min-width: 900px){
-    .navbar-toggler-icon{
+
+@media (min-width: 900px) {
+    .navbar-toggler-icon {
         display: none;
     }
 }
- @media (max-width: 450px){
-.clock{
-     padding-left: 30px;
-} 
+
+@media (max-width:500px) {
+    .clock {
+        display: grid;
+        justify-content: center;
+    }
 
 }
